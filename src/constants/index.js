@@ -112,7 +112,7 @@ const experiences = [
   },  
   {
     title: 'Web Development Immersive Certificate',
-    company_name: 'Juno College of Technology (formerly HackerYou)',
+    company_name: 'Juno College of Technology',
     icon: juno,
     iconBg: '#333333',
     date: 'November 2022 - July 2023',
