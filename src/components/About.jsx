@@ -37,7 +37,11 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am a Front End developer based in Toronto, Canada. I am always excited for opportunities to create web applications that are visually appealing and intuitive. With over 7 years of experience in various administrative roles within the public sector, I have honed strong interpersonal skills through project management and supervision. Leading onboarding and training programs for new employees has further developed my ability to thrive under pressure and collaborate effectively within small teams. Driven by a passion for continuous education and an inquisitive nature, I thrive on opportunities to solve complex challenges, handle bugs, and build services that provide real-world use case to consumers and customers.
+        Hello World! I'm Zach, a Toronto-based Front End developer with an eye for crafting visually appealing and intuitive web applications. I successfully completed Juno College of Technology (formerly HackerYou)'s web development bootcamp from November 2022 to July 2023, enhancing my skills and knowledge in the field. <br></br>
+        <br></br>
+        Having spent over 7 years in various administrative roles within the public sector, I bring a unique blend of experience and strong interpersonal skills to the world of web development. My background includes project management and supervision, where I've excelled in leading onboarding and training programs for new employees. This has not only polished my ability to thrive under pressure, but also instilled a knack for effective collaboration within small teams. <br></br>
+        <br></br>
+        Fueled by a passion for continuous education and an inquisitive nature, I relish opportunities to tackle complex challenges, troubleshoot bugs, and construct services that offer real-world utility to consumers and customers. I'm always eager for new opportunities to contribute my skills and creativity to innovative projects in the ever-evolving realm of web development.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

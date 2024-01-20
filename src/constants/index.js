@@ -86,11 +86,11 @@ const technologies = [
     icon: firebase,
   },
   {
-    name: 'git',
+    name: 'Git',
     icon: git,
   },
   {
-    name: 'figma',
+    name: 'Figma',
     icon: figma,
   }
 ];
@@ -112,7 +112,7 @@ const experiences = [
   },  
   {
     title: 'Web Development Immersive Certificate',
-    company_name: 'Juno College of Technology',
+    company_name: 'Juno College of Technology (formerly HackerYou)',
     icon: juno,
     iconBg: '#333333',
     date: 'November 2022 - July 2023',
