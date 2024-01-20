@@ -5,8 +5,9 @@ import {
   typescript,
   html,
   css,
+  sass,
   reactjs,
-  tailwind,
+  bootstrap,
   firebase,
   nodejs,
   git,
@@ -16,10 +17,9 @@ import {
   sportSeeker,
   travelAgency,
   virtualMuseum,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
+  juno,
+  mcgill,
+  irb
 } from '../assets';
 
 export const navLinks = [
@@ -58,6 +58,14 @@ const technologies = [
     icon: css,
   },
   {
+    name: 'SASS',
+    icon: sass,
+  },
+  {
+    name: 'Bootstrap',
+    icon: bootstrap,
+  },  
+  {
     name: 'JavaScript',
     icon: javascript,
   },
@@ -68,10 +76,6 @@ const technologies = [
   {
     name: 'React JS',
     icon: reactjs,
-  },
-  {
-    name: 'Tailwind CSS',
-    icon: tailwind,
   },
   {
     name: 'Node JS',
@@ -93,32 +97,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
+    title: 'Bachelor of Arts Degree',
+    company_name: 'McGill University',
+    icon: mcgill,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Aug 2012 - May 2017',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
-    icon: microverse,
+    title: 'Administrative Assistant/Registry Support Officer',
+    company_name: 'Immigration and Refugee Board of Canada',
+    icon: irb,
+    iconBg: '#FFFFFF',
+    date: 'June 2017 - June 2023',
+  },  
+  {
+    title: 'Web Development Immersive Certificate',
+    company_name: 'Juno College of Technology',
+    icon: juno,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'November 2022 - July 2023',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    title: 'Supervisor - Scheduling Unit',
+    company_name: 'Immigration and Refugee Board of Canada',
+    icon: irb,
+    iconBg: '#FFFFFF',
+    date: 'June 2023 - Present',
   },
 ];
 
@@ -179,7 +183,7 @@ const projects = [
   {
     id: 'project-3',
     name: 'Battle Rockets',
-    description: 'Designed and developed a Battleship game using React. Fully interactive and responsive experience allowing users engage in a classic turn-based battle against their computer opponent.',
+    description: 'Designed and developed a Battleship game using React. Fully interactive experience which allows users to engage in a turn-based battle against their computer opponent.',
     tags: [
       {
         name: 'react',

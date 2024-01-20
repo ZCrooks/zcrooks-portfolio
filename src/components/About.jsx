@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am a Front End developer based in Toronto, Canada. I am thrilled about opportunities to create web applications that are visually appealing and intuitive. With over 7 years of experience in various administrative roles within the public sector, I have honed strong interpersonal skills through project management and supervision. Leading onboarding and training programs for new employees has further developed my ability to thrive under pressure and collaborate effectively within small teams. Driven by a passion for continuous education and an inquisitive nature, I thrive on opportunities to solve complex challenges, handle bugs, and build services that provide real-world use case to consumers and customers.
+        I am a Front End developer based in Toronto, Canada. I am always excited for opportunities to create web applications that are visually appealing and intuitive. With over 7 years of experience in various administrative roles within the public sector, I have honed strong interpersonal skills through project management and supervision. Leading onboarding and training programs for new employees has further developed my ability to thrive under pressure and collaborate effectively within small teams. Driven by a passion for continuous education and an inquisitive nature, I thrive on opportunities to solve complex challenges, handle bugs, and build services that provide real-world use case to consumers and customers.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

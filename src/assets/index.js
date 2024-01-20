@@ -24,20 +24,20 @@ import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
+import sass from './tech/sass.png';
 import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
-import tailwind from './tech/tailwind.png';
+import bootstrap from './tech/bootstrap.png';
 import typescript from './tech/typescript.png';
 import firebase from './tech/firebase.png';
 
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
+import mcgill from './company/mcgill.png';
+import juno from './company/juno.png';
+import irb from './company/irb.png';
 
 import battleRockets from './projects/battle-rockets.png';
 import hotelHaven from './projects/hotel-haven.png';
@@ -68,6 +68,7 @@ export {
   send,
   sendHover,
   css,
+  sass,
   figma,
   git,
   html,
@@ -75,15 +76,14 @@ export {
   nodejs,
   reactjs,
   firebase,
-  tailwind,
+  bootstrap,
   typescript,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
   battleRockets,
   hotelHaven,
   travelAgency,
   sportSeeker,
-  virtualMuseum
+  virtualMuseum,
+  juno,
+  mcgill,
+  irb
 };
