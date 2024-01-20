@@ -130,7 +130,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Hotel Haven',
-    description: 'A sleek, React Bootstrap application that allows users to explore a diverse array of stunning vacation properties across a multitude global destinations.',
+    description: 'A sleek, React Bootstrap application that allows users to explore a diverse array of stunning vacation properties across a multitude of global destinations.',
     tags: [
       {
         name: 'react',

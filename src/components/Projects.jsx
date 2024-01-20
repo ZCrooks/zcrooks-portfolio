@@ -27,7 +27,7 @@ const ProjectCard = ({
       onClick={() => handleClick(id)}>
       <div
         className="absolute top-0 left-0 z-10 bg-jetLight 
-      h-full w-full opacity-[0.5] rounded-[24px]"></div>
+      h-full w-full opacity-[0.8] rounded-[24px]"></div>
 
       <img
         src={image}
