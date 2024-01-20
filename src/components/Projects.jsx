@@ -126,8 +126,8 @@ const Projects = () => {
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
           These projects demonstrate my expertise with practical examples of
           some of my work, including brief descriptions and links to code
-          repositories and live demos. This is a work in progress and new, 
-          completed projects will always be added!
+          repositories and live demos. This is a work in progress as new, 
+          completed projects are added!
         </motion.p>
       </div>
 
