@@ -102,7 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'https://peach-glynis-9.tiiny.site/',
+                  'https://violet-emma-19.tiiny.site',
                   '_blank'
                 )
               }
