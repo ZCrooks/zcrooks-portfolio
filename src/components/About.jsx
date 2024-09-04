@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Hello World! I'm Zach, a Toronto-based Front End developer with an eye for crafting visually appealing and intuitive web applications. I successfully completed Juno College of Technology (formerly HackerYou)'s web development bootcamp from November 2022 to July 2023, enhancing my skills and knowledge in the field. <br></br>
+        Hello World! I'm Zach, a Toronto-based Full-Stack developer with an eye for crafting visually appealing and intuitive web applications. I successfully completed Juno College of Technology (formerly HackerYou)'s web development bootcamp from November 2022 to July 2023, enhancing my skills and knowledge in the field. <br></br>
         <br></br>
         Having spent over 7 years in various administrative roles within the public sector, I bring a unique blend of experience and strong interpersonal skills to the world of web development. My background includes project management and supervision, where I've excelled in leading onboarding and training programs for new employees. This has not only polished my ability to thrive under pressure, but also instilled a knack for effective collaboration within small teams. <br></br>
         <br></br>
