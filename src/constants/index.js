@@ -9,7 +9,6 @@ import {
   reactjs,
   bootstrap,
   firebase,
-  nodejs,
   git,
   figma,
   hotelHaven,
@@ -19,7 +18,8 @@ import {
   virtualMuseum,
   juno,
   mcgill,
-  irb
+  irb,
+  python
 } from '../assets';
 
 export const navLinks = [
@@ -39,7 +39,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Full-stack Developer',
     icon: frontend,
   },
   {
@@ -78,8 +78,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Node JS',
-    icon: nodejs,
+    name: 'Python',
+    icon: python,
   },
   {
     name: 'Firebase',
